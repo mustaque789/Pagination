@@ -1,0 +1,13 @@
+
+
+.active{
+    color:red;
+    cursor: pointer;
+    font: bold
+}
+
+.but{
+    color: brown;
+    font-size: large;
+    font : bold
+}
